@@ -1,0 +1,4 @@
+target audience who can attend this course:
+1. students who want to learn about git
+2. students who want to learn about GitHub
+3. beginners to version control system
