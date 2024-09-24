@@ -1,0 +1,4 @@
+create repo
+stage files
+git commit
+git push
